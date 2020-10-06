@@ -83,14 +83,14 @@ h2 {
 }
 
 .page1 {
-  background-image: url(/img/Group427.jpg);
+  background-image: url(../img/Group427.jpg);
   background-repeat: no-repeat;
   background-position: right top;
   background-size: 50%;
 }
 
 .page3 {
-  background-image: url(/img/Group426.jpg);
+  background-image: url(../img/Group426.jpg);
   background-repeat: no-repeat;
   background-position: right top;
   background-size: 50%;
@@ -1471,7 +1471,7 @@ h3 {
 
 #tickets-container>a article {
   
-  background-image: url("/2_GATHER/img/Subtraction_2.svg");
+  background-image: url("../img/Subtraction_2.svg");
   background-repeat: no-repeat;
   background-position: center;
   position: relative;
@@ -1550,7 +1550,4 @@ h3 {
 }
 
 
-#calendar-container>a h5, h4, p {
-  /* float: left; */
-}
 
